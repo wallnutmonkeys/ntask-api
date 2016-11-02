@@ -1,0 +1,25 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "Task list API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallnutmonkeys/ntask-api.git"
+  },
+  "keywords": [
+    "task",
+    "node",
+    "js",
+    "api"
+  ],
+  "author": "Dominic Paquette <wallnut.monkeys@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallnutmonkeys/ntask-api/issues"
+  },
+  "homepage": "https://github.com/wallnutmonkeys/ntask-api#readme"
+}
