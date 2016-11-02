@@ -4,7 +4,7 @@
   "description": "Task list API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "babel-node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,6 @@
     "api"
   ],
   "author": "Dominic Paquette <wallnut.monkeys@gmail.com>",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/wallnutmonkeys/ntask-api/issues"
   },
